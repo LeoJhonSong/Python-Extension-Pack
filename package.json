@@ -3,6 +3,8 @@
     "displayName": "Python Extension Pack",
     "description": "Collection of extensions related to python",
     "version": "0.0.1",
+    "publisher": "LeoJhonSong",
+    "repository": "https://github.com/LeoJhonSong/Python-Extension-Pack",
     "engines": {
         "vscode": "^1.31.0"
     },
