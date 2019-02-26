@@ -7,7 +7,7 @@
 ### Added
 
 - Add logo.
-- Add description of the extensions.
+- Add description of the extensions, for example shields.
 
 ## [Version0.0.1] - 2019-02-26
 
