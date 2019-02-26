@@ -1,7 +1,7 @@
 {
     "name": "python-extension-pack",
     "displayName": "Python Extension Pack",
-    "description": "",
+    "description": "Collection of extensions related to python",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.31.0"
