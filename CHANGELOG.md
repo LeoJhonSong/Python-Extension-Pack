@@ -2,7 +2,12 @@
 
 # Changelog
 
-## [Unreleased]
+
+## [1.0.0] - 2020-10-30
+
+### Added
+
+- Add Python language server Pylance
 
 ### Added
 

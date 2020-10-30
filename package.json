@@ -2,7 +2,7 @@
     "name": "python-extension-pack",
     "displayName": "Python Extension Pack",
     "description": "Collection of extensions related to python",
-    "version": "0.1.1",
+    "version": "1.0.0",
     "publisher": "LeoJhonSong",
     "icon": "python-logo.png",
     "repository": "https://github.com/LeoJhonSong/Python-Extension-Pack",
@@ -14,7 +14,8 @@
     ],
     "extensionPack": [
         "ms-python.python",
-        "dongli.python-preview",
-        "VisualStudioExptTeam.vscodeintellicode"
+        "ms-python.vscode-pylance",
+        "VisualStudioExptTeam.vscodeintellicode",
+        "dongli.python-preview"
     ]
 }

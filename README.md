@@ -6,9 +6,9 @@ I would be glad if you are interested in this pack and just give a try! 👍
 ️❗️❗️❗️️ before installation I suggest you read lines with ⚠️ tags first, where
 some requirements are mentioned.
 
-1. [My tricks](#my-tricks)
-2. [This pack includes](#this-pack-includes)
-3. [Contribute](#contribute)
+1. [My tricks](#My-tricks)
+2. [This pack includes](#This-pack-includes)
+3. [Contribute](#Contribute)
 
 ## My tricks
 
@@ -33,8 +33,9 @@ tricks:
 
   ⚠️a Python distribution is needed. I recommend [Anaconda](https://docs.anaconda.com/anaconda/install/).
 
-- [Python Preview](https://marketplace.visualstudio.com/items?itemName=dongli.python-preview)
+- [Pylance](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance) A performant, feature-rich language server for Python.
 - [Visual Studio IntelliCode - Preview](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
+- [Python Preview](https://marketplace.visualstudio.com/items?itemName=dongli.python-preview)
 
 ## Contribute
 
