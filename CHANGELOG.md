@@ -3,6 +3,12 @@
 # Changelog
 
 
+## [2.0.0] - 2022-12-12
+
+### Removed
+
+- Remove Python Preview since this extension is deprecated as it is no longer being maintained.
+
 ## [1.1.0] - 2021-04-01
 
 ### Added
