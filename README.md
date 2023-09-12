@@ -31,10 +31,12 @@ tricks:
 
 - [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
 - [Pylance](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance) A performant, feature-rich language server for Python.
+- [Flake8](https://marketplace.visualstudio.com/items?itemName=ms-python.flake8) Linting support for python files using `flake8`.
+- [autopep8](https://marketplace.visualstudio.com/items?itemName=ms-python.autopep8) Formatting support for python files using `autopep8`.
 - [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode) makes completion suggestion from Pylance smarter with the helpn of AI.
-- [Python Docstring Generator](https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring) generate docstring template with some intelligence.
+- [IntelliCode API Usage Examples](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.intellicode-api-usage-examples) See relevant code examples from GitHub for over 100K different APIs right in your editor.
 - [Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter) Jupyter notebook support.
-- [Python Preview](https://marketplace.visualstudio.com/items?itemName=dongli.python-preview) visually show how are things going. Starters could find it helpful.
+- [Python Docstring Generator](https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring) generate docstring template with some intelligence.
 
 ## Contribute
 

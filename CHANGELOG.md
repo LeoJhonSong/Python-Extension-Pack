@@ -3,6 +3,12 @@
 # Changelog
 
 
+## [3.0.0] - 2023-09-12
+
+### Added
+
+- Add flake8 as linter and autopep8 as formatter, add IntelliCode API Usage Examples as supplement to IntelliCode.
+
 ## [2.0.0] - 2022-12-12
 
 ### Removed
